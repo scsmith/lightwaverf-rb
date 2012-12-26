@@ -1,6 +1,7 @@
-# LightwaveRf
+# LightwaveRF
 
-Control LightwaveRF devices with the Wifi Link box
+Control LightwaveRF devices with the Wifi Link box.
+Messages are sent over UDP broadcast, so you need to be on the same network and subnet.
 
 ## Installation
 
